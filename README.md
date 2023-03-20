@@ -8,3 +8,5 @@ Ada is a structured, statically typed, imperative, and object-oriented high-leve
 [Snake](https://github.com/DillonDepeel/Ada-games/blob/main/snake.ada)
 ###
 [Guess The Number](https://github.com/DillonDepeel/Ada-games/blob/main/GuessingGame.ada)
+###
+[Tetris](https://github.com/DillonDepeel/Ada-games/blob/main/Tetris.ada)
